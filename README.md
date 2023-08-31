@@ -1,4 +1,4 @@
-# EGWebTimer
+# EscapeGamesWebTimer
 このタイマーは主に脱出ゲームで利用できます。
 
 ## 使い方
